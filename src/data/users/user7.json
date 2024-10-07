@@ -1,0 +1,8 @@
+{
+  "id": "7",
+  "name": "晓梅",
+  "age": 32,
+  "avatarPath": "/images/avatars/user7.jpg",
+  "systemPromptPath": "/src/data/system_prompts/user7_prompt.txt",
+  "lastMessage": "我们很久没聊了..."
+}

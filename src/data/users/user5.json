@@ -1,0 +1,8 @@
+{
+  "id": "5",
+  "name": "老王",
+  "age": 45,
+  "avatarPath": "/images/avatars/user5.jpg",
+  "systemPromptPath": "/src/data/system_prompts/user5_prompt.txt",
+  "lastMessage": "有个好机会..."
+}

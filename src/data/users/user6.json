@@ -1,0 +1,8 @@
+{
+  "id": "6",
+  "name": "小张",
+  "age": 28,
+  "avatarPath": "/images/avatars/user6.jpg",
+  "systemPromptPath": "/src/data/system_prompts/user6_prompt.txt",
+  "lastMessage": "你觉得这个怎么样？"
+}

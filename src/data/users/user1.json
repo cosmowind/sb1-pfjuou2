@@ -1,0 +1,8 @@
+{
+  "id": "1",
+  "name": "爱丽丝",
+  "age": 28,
+  "avatarPath": "/images/avatars/user1.jpg",
+  "systemPromptPath": "/data/system_prompts/user1_prompt.txt",
+  "lastMessage": "嘿，你好吗？"
+}

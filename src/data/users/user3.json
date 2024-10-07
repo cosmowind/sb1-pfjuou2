@@ -1,0 +1,8 @@
+{
+  "id": "3",
+  "name": "李华",
+  "age": 30,
+  "avatarPath": "/images/avatars/user3.jpg",
+  "systemPromptPath": "/src/data/system_prompts/user3_prompt.txt",
+  "lastMessage": "周末有空吗？"
+}
